@@ -11,5 +11,7 @@
         <Button Canvas.Top="0" Canvas.Right="0">Botón B</Button>
         <Button  Canvas.Bottom="0" Canvas.Left="0">Botón C</Button>
         <Button Canvas.Bottom="0" Canvas.Right="0">Botón D</Button>
+        <Rectangle Fill="Crimson" Height="50" Width="50" Canvas.Top="100" Canvas.Left="100" Panel.ZIndex="4"></Rectangle>
+        <Rectangle Fill="Black"  Height="50" Width="50" Canvas.Top="130" Canvas.Left="130" Panel.ZIndex="3 "></Rectangle>
     </Canvas>
 </Window>
